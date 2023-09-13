@@ -1,0 +1,53 @@
+.Billing {
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+input[type="text"] {
+  width: 200px;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+input[type="date"] {
+  width: 200px;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.patient-list {
+  margin-top: 80px; /* Add margin-top to create space between the menu and the patient list */
+}
+
+.patient-list-item {
+  margin-bottom: 16px;
+  width: 350px;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.patient-name {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.patient-info {
+  padding: 16px;
+  margin-top: 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
